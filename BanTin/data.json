@@ -1,0 +1,81 @@
+﻿{
+  "Bantins": [
+    {
+      "Name": "BanTin1",
+      "NoiDung": "Nội dung bản tin 1",
+      "Time": 180,
+      "CategoryName": "Chua co the loai",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "BanTin2",
+      "NoiDung": "Nội dung bản tin 2",
+      "Time": 150,
+      "CategoryName": "Chua co the loai",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "BanTin3",
+      "NoiDung": "Nội dung bản tin 3",
+      "Time": 120,
+      "CategoryName": "Chua co the loai",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "BanTin4",
+      "NoiDung": "Nội dung bản tin 4",
+      "Time": 90,
+      "CategoryName": "Chua co the loai",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "BanTin5",
+      "NoiDung": "Nội dung bản tin 4",
+      "Time": 90,
+      "CategoryName": "Chua co the loai",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "Ban Tin 55",
+      "NoiDung": "noi dung gggaag",
+      "Time": 55,
+      "CategoryName": "Chua co the loai",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "da sua noi dung",
+      "NoiDung": "AFADSFASFASDFA",
+      "Time": 44,
+      "CategoryName": "Tran A",
+      "AuthorName": "Chua co tac gia"
+    },
+    {
+      "Name": "Ban tin 66",
+      "NoiDung": "6969696",
+      "Time": 66,
+      "CategoryName": null,
+      "AuthorName": "Tran A"
+    },
+    {
+      "Name": "ban tin 566",
+      "NoiDung": "656tw4w54",
+      "Time": 666,
+      "CategoryName": "Thoi Su",
+      "AuthorName": "Tran A"
+    },
+    {
+      "Name": "Test",
+      "NoiDung": "asds",
+      "Time": 123,
+      "CategoryName": " Chưa có dữ liệu thể loại ",
+      "AuthorName": " Chưa có dữ liệu tác giả "
+    },
+    {
+      "Name": "Ban tin moi",
+      "NoiDung": "",
+      "Time": 60,
+      "CategoryName": " Chưa có dữ liệu thể loại ",
+      "AuthorName": " Chưa có dữ liệu tác giả "
+    }
+  ]
+}
